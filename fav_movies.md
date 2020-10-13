@@ -15,3 +15,9 @@
 | **Batman Begins** |           | 2005      | [Details here](https://www.imdb.com/title/tt0372784/?ref_=fn_al_tt_1) |
 | **Avatar** |           | 2009      | [Details here](https://www.imdb.com/title/tt0499549/?ref_=fn_al_tt_2) |
 
+<br><br>
+## Movies I want to watch
+| Name            |           | Year      | imdb |
+| ---             | ---       | :---:     | :--- |
+| **Westworld** |           | 2016      | [Details here](https://www.imdb.com/title/tt0475784/?ref_=fn_al_tt_1) |
+| **For Sama** |           | 2019      | [Details here](https://www.imdb.com/title/tt9617456/?ref_=fn_al_tt_1) |
