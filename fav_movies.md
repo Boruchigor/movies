@@ -1,5 +1,7 @@
 # Favorite Movies
 
+<img src="pic.jpg" width="200px">
+
 | Name            |           | Year      | imdb |
 | ---             | ---       | :---:     | :--- |
 | **Fight Club** |           | 1999      | [Details here](https://www.imdb.com/title/tt0137523/) |
@@ -9,4 +11,7 @@
 | **Interstellar** |           | 2014      | [Details here](https://www.imdb.com/title/tt0816692/?ref_=nv_sr_srsg_0) |
 | **Alien** |           | 1979      | [Details here](https://www.imdb.com/title/tt0078748/?ref_=fn_al_tt_1) |
 | **The Matrix** |           | 1999      | [Details here](https://www.imdb.com/title/tt0133093/?ref_=fn_al_tt_1) |
+| **Star Wars** |           | 1977      | [Details here](https://www.imdb.com/title/tt0076759/?ref_=fn_al_tt_1) |
+| **Batman Begins** |           | 2005      | [Details here](https://www.imdb.com/title/tt0372784/?ref_=fn_al_tt_1) |
+| **Avatar** |           | 2009      | [Details here](https://www.imdb.com/title/tt0499549/?ref_=fn_al_tt_2) |
 
