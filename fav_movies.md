@@ -21,3 +21,4 @@
 | Name            |           | Year      | imdb |
 | ---             | ---       | :---:     | :--- |
 | **Fight Club** |           | 1999      | [Details here](https://www.imdb.com/title/tt0137523/) |
+| **Batman Begins** |           | 2005      | [Details here](https://www.imdb.com/title/tt0372784/?ref_=fn_al_tt_1) |
