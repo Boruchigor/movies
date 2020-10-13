@@ -15,3 +15,9 @@
 | **Batman Begins** |           | 2005      | [Details here](https://www.imdb.com/title/tt0372784/?ref_=fn_al_tt_1) |
 | **Avatar** |           | 2009      | [Details here](https://www.imdb.com/title/tt0499549/?ref_=fn_al_tt_2) |
 
+<br><br>
+<img src="pic2.jpeg">
+
+| Name            |           | Year      | imdb |
+| ---             | ---       | :---:     | :--- |
+| **Fight Club** |           | 1999      | [Details here](https://www.imdb.com/title/tt0137523/) |
