@@ -18,7 +18,18 @@
 <br><br>
 <img src="pic2.jpeg">
 
+
+
+## Movies I want to watch
 | Name            |           | Year      | imdb |
 | ---             | ---       | :---:     | :--- |
+| **Westworld** |           | 2016      | [Details here](https://www.imdb.com/title/tt0475784/?ref_=fn_al_tt_1) |
+| **For Sama** |           | 2019      | [Details here](https://www.imdb.com/title/tt9617456/?ref_=fn_al_tt_1) |
 | **Fight Club** |           | 1999      | [Details here](https://www.imdb.com/title/tt0137523/) |
+
+<br><br>
+## Good Serials
+| Name            |           | Year      | imdb |
+| ---             | ---       | :---:     | :--- |
+| **Westworld** |           | 2016      | [Details here](https://www.imdb.com/title/tt0475784/?ref_=fn_al_tt_1) |
 | **Batman Begins** |           | 2005      | [Details here](https://www.imdb.com/title/tt0372784/?ref_=fn_al_tt_1) |
