@@ -24,5 +24,7 @@
 
 <br><br>
 ## Good Serials
+| Name            |           | Year      | imdb |
+| ---             | ---       | :---:     | :--- |
 | **Westworld** |           | 2016      | [Details here](https://www.imdb.com/title/tt0475784/?ref_=fn_al_tt_1) |
 | **Batman Begins** |           | 2005      | [Details here](https://www.imdb.com/title/tt0372784/?ref_=fn_al_tt_1) |
